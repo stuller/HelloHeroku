@@ -1,7 +1,7 @@
 HelloHeroku
 ===========
 
-hello world with heroku and node.js, just gettin' my feet wet. hadn't tried heroku yet - so tried the tutorial over at https://devcenter.heroku.com/articles/getting-started-with-nodejs
+hello world with heroku and node.js, just gettin' my feet wet. hadn't tried heroku yet, considering using it for a project - so tried the tutorial over at https://devcenter.heroku.com/articles/getting-started-with-nodejs
 
 running at http://quiet-ocean-2599.herokuapp.com/
 
