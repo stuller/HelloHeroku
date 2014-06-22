@@ -1,0 +1,19 @@
+{
+  "name": "HelloHeroku",
+  "version": "0.0.0",
+  "description": "my first heroku app",
+  "main": "web.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "heroku",
+  "license": "none",
+  "dependencies": {
+    "logfmt": "~1.1.2",
+    "express": "~4.4.4"
+  },
+  "engines": {
+     "node": "0.10.x"
+  }
+}
+
